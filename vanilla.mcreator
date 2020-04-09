@@ -298,6 +298,14 @@
       "compiles": true,
       "locked_code": false,
       "ids": {}
+    },
+    {
+      "name": "Curruptiongrass",
+      "type": "block",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
     }
   ],
   "variable_elements": [],
@@ -316,14 +324,15 @@
   "language_map": {
     "en_us": {
       "item.vanilla.leadboots": "Lead Boots",
+      "block.vanilla.curruptiongrass": "Curruptiongrass",
       "advancements.welcome.title": "Welcome",
       "biome.vanilla.farland": "Farland",
       "item.vanilla.deisel.desc": "diesel",
       "item.vanilla.leadsword": "Leadsword",
       "item.vanilla.leadhelmet": "Lead Helmet",
       "block.vanilla.glass": "Glass",
-      "entity.vanilla.farlander": "Farlander",
       "item.vanilla.deisel": "Deisel",
+      "entity.vanilla.farlander": "Farlander",
       "block.vanilla.storagetank": "Storage Tank",
       "item.vanilla.leadbody": "Lead Body",
       "item.vanilla.leadingot": "lead ingot",
