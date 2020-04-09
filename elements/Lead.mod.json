@@ -1,0 +1,47 @@
+{
+  "_fv": 6,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "leadhead",
+    "enableBody": true,
+    "textureBody": "leadchest",
+    "enableLeggings": true,
+    "textureLeggings": "leadlegs",
+    "enableBoots": true,
+    "textureBoots": "leadboots",
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "armorTextureFile": "leadarmour",
+    "helmetName": "Lead Helmet",
+    "bodyName": "Lead Body",
+    "leggingsName": "Lead Leggings",
+    "bootsName": "Lead Boots",
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 40,
+    "damageValueHelmet": 5,
+    "damageValueBody": 12,
+    "damageValueLeggings": 10,
+    "damageValueBoots": 6,
+    "enchantability": 9,
+    "toughness": 4.0,
+    "equipSound": {
+      "value": "block.enderchest.open"
+    },
+    "repairItems": []
+  }
+}

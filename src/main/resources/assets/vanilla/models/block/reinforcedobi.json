@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "vanilla:blocks/reinforcedobsidian",
+    "up": "vanilla:blocks/reinforcedobsidian",
+    "north": "vanilla:blocks/reinforcedobsidian",
+    "east": "vanilla:blocks/reinforcedobsidian",
+    "south": "vanilla:blocks/reinforcedobsidian",
+    "west": "vanilla:blocks/reinforcedobsidian",
+    "particle": "vanilla:blocks/reinforcedobsidian"
+  }
+}

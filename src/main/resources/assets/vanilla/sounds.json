@@ -1,0 +1,20 @@
+{
+  "weeb": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "vanilla:mikaduki_-_enai_irculation_mikaduki_80s_emix",
+        "stream": false
+      }
+    ]
+  },
+  "diesel": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "vanilla:iesel",
+        "stream": true
+      }
+    ]
+  }
+}

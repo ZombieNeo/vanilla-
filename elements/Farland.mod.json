@@ -1,0 +1,94 @@
+{
+  "_fv": 6,
+  "_type": "biome",
+  "definition": {
+    "name": "Farland",
+    "groundBlock": {
+      "value": "Blocks.GRASS"
+    },
+    "undergroundBlock": {
+      "value": "Blocks.STONE#0"
+    },
+    "generateLakes": true,
+    "treeType": 1,
+    "vanillaTreeType": "Big trees",
+    "minHeight": 10,
+    "spawnVines": true,
+    "treeVines": {
+      "value": "Blocks.VINE"
+    },
+    "treeStem": {
+      "value": "Blocks.LOG2#1"
+    },
+    "treeBranch": {
+      "value": "Blocks.LEAVES#1"
+    },
+    "treeFruits": {
+      "value": "Blocks.COCOA"
+    },
+    "customColors": true,
+    "airColor": {
+      "value": -2110896486,
+      "falpha": 0.0
+    },
+    "grassColor": {
+      "value": -13261999,
+      "falpha": 0.0
+    },
+    "waterColor": {
+      "value": -12420880,
+      "falpha": 0.0
+    },
+    "treesPerChunk": 3,
+    "grassPerChunk": 4,
+    "flowersPerChunk": 8,
+    "mushroomsPerChunk": 0,
+    "bigMushroomsChunk": 0,
+    "sandPathcesPerChunk": 0,
+    "gravelPatchesPerChunk": 0,
+    "reedsPerChunk": 0,
+    "cactiPerChunk": 0,
+    "deadBushesPerChunk": 0,
+    "rainingPossibility": 1.0,
+    "temperature": 0.5,
+    "baseHeight": 2.0,
+    "heightVariation": 2.0,
+    "spawnBiome": true,
+    "biomeWeight": 10,
+    "biomeType": "WARM",
+    "biomeCategory": "JUNGLE",
+    "parent": {
+      "value": "No parent"
+    },
+    "biomeDictionaryTypes": [],
+    "spawnList": [
+      {
+        "value": "EntityCat"
+      },
+      {
+        "value": "EntityDonkey"
+      },
+      {
+        "value": "EntityCow"
+      },
+      {
+        "value": "EntityBat"
+      },
+      {
+        "value": "EntityPanda"
+      },
+      {
+        "value": "EntityCod"
+      },
+      {
+        "value": "EntityPufferfish"
+      },
+      {
+        "value": "EntitySalmon"
+      },
+      {
+        "value": "EntityTropicalFish"
+      }
+    ]
+  }
+}

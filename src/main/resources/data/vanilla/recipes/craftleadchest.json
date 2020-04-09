@@ -1,0 +1,39 @@
+{
+  "group": "vanilla",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "vanilla:leadingot"
+    },
+    "2": {
+      "item": "vanilla:leadingot"
+    },
+    "3": {
+      "item": "vanilla:leadingot"
+    },
+    "4": {
+      "item": "vanilla:leadingot"
+    },
+    "5": {
+      "item": "vanilla:leadingot"
+    },
+    "6": {
+      "item": "vanilla:leadingot"
+    },
+    "7": {
+      "item": "vanilla:leadingot"
+    },
+    "8": {
+      "item": "vanilla:leadingot"
+    }
+  },
+  "result": {
+    "item": "vanilla:leadbody",
+    "count": 1
+  }
+}

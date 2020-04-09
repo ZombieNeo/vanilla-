@@ -1,0 +1,11 @@
+{
+  "group": "vanilla",
+  "type": "minecraft:smelting",
+  "experience": 4,
+  "ingredient": {
+    "item": "vanilla:leadore"
+  },
+  "result": {
+    "item": "vanilla:leadingot"
+  }
+}

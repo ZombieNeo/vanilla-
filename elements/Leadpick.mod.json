@@ -1,0 +1,23 @@
+{
+  "_fv": 6,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "leadpick",
+    "customModelName": "Normal",
+    "name": "Leadpick",
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "toolType": "Pickaxe",
+    "harvestLevel": 5,
+    "efficiency": 7.0,
+    "attackSpeed": 1.0,
+    "enchantability": 2,
+    "damageVsEntity": 4.8999999999999995,
+    "usageCount": 3000,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": []
+  }
+}

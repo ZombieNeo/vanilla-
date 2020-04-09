@@ -1,0 +1,20 @@
+modLoader="javafml"
+loaderVersion="[28,)"
+
+[[mods]]
+modId="vanilla"
+version="1.0.0"
+displayName="vanilla++"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+displayURL="https://mcreator.net"
+authors="Neo, MCreator"
+
+[[dependencies.vanilla]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.14.4]"
+    ordering="NONE"
+    side="BOTH"
+
+
+

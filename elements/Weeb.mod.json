@@ -1,0 +1,17 @@
+{
+  "_fv": 6,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "weeb",
+    "name": "Weeb",
+    "description": "weeb",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:weeb"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

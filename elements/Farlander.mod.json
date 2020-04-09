@@ -1,0 +1,112 @@
+{
+  "_fv": 6,
+  "_type": "mob",
+  "definition": {
+    "mobName": "Farlander",
+    "mobLabel": "",
+    "mobModelTexture": "download.png",
+    "mobModelName": "Biped",
+    "modelWidth": 0.6,
+    "modelHeight": 1.8,
+    "modelShadowSize": 0.5,
+    "armorBaseValue": 1.0,
+    "hasSpawnEgg": true,
+    "spawnEggBaseColor": {
+      "value": -16777216,
+      "falpha": 0.0
+    },
+    "spawnEggDotColor": {
+      "value": -3407668,
+      "falpha": 0.0
+    },
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "isBoss": true,
+    "bossBarColor": "PINK",
+    "bossBarType": "PROGRESS",
+    "equipmentMainHand": {
+      "value": "Items.DIAMOND_SWORD"
+    },
+    "equipmentOffHand": {
+      "value": "CUSTOM:FarlandsPortalIgniter"
+    },
+    "equipmentHelmet": {
+      "value": "Items.DIAMOND_HELMET"
+    },
+    "equipmentBody": {
+      "value": "Items.DIAMOND_CHESTPLATE"
+    },
+    "equipmentLeggings": {
+      "value": "Items.DIAMOND_LEGGINGS"
+    },
+    "equipmentBoots": {
+      "value": "Items.DIAMOND_BOOTS"
+    },
+    "mobBehaviourType": "Mob",
+    "mobCreatureType": "ILLAGER",
+    "attackStrength": 8,
+    "movementSpeed": 0.2,
+    "trackingRange": 100,
+    "health": 600,
+    "xpAmount": 5000,
+    "waterMob": false,
+    "flyingMob": false,
+    "disableCollisions": false,
+    "ridable": false,
+    "canControlForward": false,
+    "canControlStrafe": false,
+    "immuneToFire": false,
+    "immuneToArrows": false,
+    "immuneToFallDamage": false,
+    "immuneToCactus": false,
+    "immuneToDrowning": false,
+    "immuneToLightning": false,
+    "immuneToPotions": false,
+    "immuneToPlayer": false,
+    "mobDrop": {
+      "value": "Blocks.MOB_SPAWNER"
+    },
+    "livingSound": {
+      "value": "block.note.guitar"
+    },
+    "hurtSound": {
+      "value": "block.note.xylophone"
+    },
+    "deathSound": {
+      "value": "record.strad"
+    },
+    "spawnParticles": true,
+    "particleToSpawn": {
+      "value": "EXPLOSION_NORMAL"
+    },
+    "particleSpawningShape": "Spread",
+    "particleSpawningRadious": 1.0,
+    "particleAmount": 2,
+    "particleSpawningCondition": "ALWAYS",
+    "onInitialSpawn": {
+      "name": "FarlanderOnInitialEntitySpawn"
+    },
+    "hasAI": true,
+    "aiBase": "Zombie",
+    "aixml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"aitasks_container\" deletable=\"false\" x=\"40\" y=\"40\"><next><block type=\"wander\"><field name=\"speed\">1</field><next><block type=\"look_around\"><next><block type=\"swim_in_water\"><next><block type=\"leap_at_target\"><field name=\"speed\">0.8</field><next><block type=\"panic_when_attacked\"><field name=\"speed\">1.2</field><next><block type=\"attack_action\"><field name=\"callhelp\">TRUE</field></block></next></block></next></block></next></block></next></block></next></block></next></block></xml>",
+    "breedable": false,
+    "breedTriggerItems": [],
+    "ranged": false,
+    "rangedAttackItem": {
+      "value": ""
+    },
+    "spawnThisMob": true,
+    "doesDespawnWhenIdle": true,
+    "spawningProbability": 1,
+    "mobSpawningType": "creature",
+    "minNumberOfMobsPerGroup": 1,
+    "maxNumberOfMobsPerGroup": 1,
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:Farland"
+      }
+    ],
+    "spawnInDungeons": false
+  }
+}

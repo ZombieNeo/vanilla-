@@ -1,0 +1,70 @@
+{
+  "_fv": 6,
+  "_type": "biome",
+  "definition": {
+    "name": "Snow Mega",
+    "groundBlock": {
+      "value": "Blocks.SNOW_LAYER"
+    },
+    "undergroundBlock": {
+      "value": "Blocks.SNOW"
+    },
+    "generateLakes": true,
+    "treeType": 1,
+    "vanillaTreeType": "Mega spruce trees",
+    "minHeight": 18,
+    "spawnVines": true,
+    "treeVines": {
+      "value": "Blocks.ICE"
+    },
+    "treeStem": {
+      "value": "Blocks.PACKED_ICE"
+    },
+    "treeBranch": {
+      "value": "Blocks.BLUE_ICE"
+    },
+    "treeFruits": {
+      "value": "Blocks.PACKED_ICE"
+    },
+    "customColors": true,
+    "airColor": {
+      "value": -5916161,
+      "falpha": 0.0
+    },
+    "grassColor": {
+      "value": -6830684,
+      "falpha": 0.0
+    },
+    "waterColor": {
+      "value": -14269048,
+      "falpha": 0.0
+    },
+    "treesPerChunk": 4,
+    "grassPerChunk": 4,
+    "flowersPerChunk": 0,
+    "mushroomsPerChunk": 0,
+    "bigMushroomsChunk": 0,
+    "sandPathcesPerChunk": 0,
+    "gravelPatchesPerChunk": 0,
+    "reedsPerChunk": 0,
+    "cactiPerChunk": 0,
+    "deadBushesPerChunk": 0,
+    "rainingPossibility": 1.0,
+    "temperature": 0.0,
+    "baseHeight": 0.1,
+    "heightVariation": 1.0,
+    "spawnBiome": true,
+    "biomeWeight": 19,
+    "biomeType": "ICY",
+    "biomeCategory": "ICY",
+    "parent": {
+      "value": "snowy_tundra"
+    },
+    "biomeDictionaryTypes": [],
+    "spawnList": [
+      {
+        "value": "EntityGolem"
+      }
+    ]
+  }
+}

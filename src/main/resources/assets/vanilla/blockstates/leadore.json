@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "vanilla:block/leadore"
+    },
+    "facing=east": {
+      "model": "vanilla:block/leadore",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "vanilla:block/leadore",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "vanilla:block/leadore",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "vanilla:block/leadore",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "vanilla:block/leadore",
+      "x": 90
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "vanilla:block/farlands_portal_ew"
+    },
+    "axis=x": {
+      "model": "vanilla:block/farlands_portal_ns"
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "group": "vanilla",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "vanilla:leadingot"
+    },
+    "1": {
+      "item": "vanilla:leadingot"
+    },
+    "2": {
+      "item": "vanilla:leadingot"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "vanilla:leadpick",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "vanilla:blocks/glass",
+    "up": "vanilla:blocks/glass",
+    "north": "vanilla:blocks/glass",
+    "east": "vanilla:blocks/glass",
+    "south": "vanilla:blocks/glass",
+    "west": "vanilla:blocks/glass",
+    "particle": "vanilla:blocks/glass"
+  }
+}

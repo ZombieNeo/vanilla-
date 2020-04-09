@@ -1,0 +1,72 @@
+{
+  "_fv": 6,
+  "_type": "dimension",
+  "definition": {
+    "portalFrame": {
+      "value": "Blocks.DIAMOND_ORE"
+    },
+    "portalParticles": {
+      "value": "ENCHANTMENT_TABLE"
+    },
+    "portalLuminance": 0.05,
+    "portalSound": {
+      "value": "block.portal.ambient"
+    },
+    "igniterName": "Farlands Portal Igniter",
+    "igniterTab": {
+      "value": "TOOLS"
+    },
+    "texture": "farlandslight",
+    "portalTexture": "poretalfat",
+    "enablePortal": true,
+    "biomesInDimension": [
+      {
+        "value": "CUSTOM:Farland"
+      },
+      {
+        "value": "CUSTOM:SnowMega"
+      }
+    ],
+    "worldGenType": "Nether like gen",
+    "mainFillerBlock": {
+      "value": "Blocks.STONE#0"
+    },
+    "secondaryFillerBlock": {
+      "value": "Blocks.GRASS"
+    },
+    "tertiaryFillerBlock": {
+      "value": "Blocks.STONE#0"
+    },
+    "fluidBlock": {
+      "value": "Blocks.FLOWING_WATER"
+    },
+    "airColor": {
+      "value": -4138753,
+      "frgbvalue": [
+        0.753,
+        0.847,
+        1.0
+      ],
+      "fvalue": [
+        0.753,
+        0.847,
+        1.0
+      ],
+      "falpha": 1.0
+    },
+    "canRespawnHere": true,
+    "hasFog": false,
+    "hasWeather": true,
+    "isDark": false,
+    "doesWaterVaporize": false,
+    "sleepResult": "ALLOW",
+    "hasSkyLight": true,
+    "imitateOverworldBehaviour": true,
+    "dimensionMusic": {
+      "value": ""
+    },
+    "onPlayerEntersDimension": {
+      "name": "FarlandsPlayerEntersDimension"
+    }
+  }
+}

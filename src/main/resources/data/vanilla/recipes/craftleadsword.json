@@ -1,0 +1,24 @@
+{
+  "group": "vanilla",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "vanilla:leadingot"
+    },
+    "1": {
+      "item": "vanilla:leadingot"
+    },
+    "2": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "vanilla:leadsword",
+    "count": 1
+  }
+}

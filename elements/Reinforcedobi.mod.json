@@ -1,0 +1,94 @@
+{
+  "_fv": 6,
+  "_type": "block",
+  "definition": {
+    "texture": "reinforcedobsidian",
+    "textureTop": "reinforcedobsidian",
+    "textureLeft": "reinforcedobsidian",
+    "textureFront": "reinforcedobsidian",
+    "textureRight": "reinforcedobsidian",
+    "textureBack": "reinforcedobsidian",
+    "renderType": 10,
+    "customModelName": "Normal",
+    "rotationMode": 3,
+    "hasTransparency": false,
+    "transparencyType": "SOLID",
+    "mx": 0.0,
+    "my": 0.0,
+    "mz": 0.0,
+    "Mx": 1.0,
+    "My": 1.0,
+    "Mz": 1.0,
+    "faceShape": "SOLID",
+    "name": "Reinforcedobi",
+    "specialInfo": [],
+    "hardness": 100.0,
+    "resistance": 1000.0,
+    "hasGravity": false,
+    "creativeTab": {
+      "value": "BUILDING_BLOCKS"
+    },
+    "destroyTool": "Not specified",
+    "affectedBySilkTouch": false,
+    "customDrop": {
+      "value": ""
+    },
+    "dropAmount": 1,
+    "isBeaconBase": false,
+    "enchantPowerBonus": 2.0,
+    "plantsGrowOn": false,
+    "canProvidePower": false,
+    "lightOpacity": 255,
+    "material": {
+      "value": "MISCELLANEOUS"
+    },
+    "tickRate": 10,
+    "tickRandomly": false,
+    "isReplaceable": false,
+    "colorOnMap": "DEFAULT",
+    "creativePickItem": {
+      "value": ""
+    },
+    "flammability": 0,
+    "fireSpreadSpeed": 0,
+    "isLadder": false,
+    "slipperiness": 0.6,
+    "reactionToPushing": "NORMAL",
+    "isNotColidable": false,
+    "soundOnStep": {
+      "value": "METAL"
+    },
+    "luminance": 0.0,
+    "unbreakable": false,
+    "breakHarvestLevel": 1,
+    "spawnParticles": true,
+    "particleToSpawn": {
+      "value": "TOTEM"
+    },
+    "particleSpawningShape": "Spread",
+    "particleSpawningRadious": 0.2999999985098839,
+    "particleAmount": 2,
+    "particleSpawningCondition": "ALWAYS",
+    "hasInventory": false,
+    "guiBoundTo": "<NONE>",
+    "openGUIOnRightClick": false,
+    "inventorySize": 9,
+    "inventoryStackSize": 64,
+    "inventoryDropWhenDestroyed": true,
+    "inventoryComparatorPower": true,
+    "inventoryOutSlotIDs": [],
+    "spawnWorldTypes": [
+      "CUSTOM:Farlands"
+    ],
+    "restrictionBiomes": [],
+    "blocksToReplace": [
+      {
+        "value": "Blocks.STONE"
+      }
+    ],
+    "frequencyPerChunks": 10,
+    "frequencyOnChunk": 16,
+    "minGenerateHeight": 0,
+    "maxGenerateHeight": 255
+  }
+}

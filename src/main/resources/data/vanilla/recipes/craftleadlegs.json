@@ -1,0 +1,36 @@
+{
+  "group": "vanilla",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "vanilla:leadingot"
+    },
+    "1": {
+      "item": "vanilla:leadingot"
+    },
+    "2": {
+      "item": "vanilla:leadingot"
+    },
+    "3": {
+      "item": "vanilla:leadingot"
+    },
+    "5": {
+      "item": "vanilla:leadingot"
+    },
+    "6": {
+      "item": "vanilla:leadingot"
+    },
+    "8": {
+      "item": "vanilla:leadingot"
+    }
+  },
+  "result": {
+    "item": "vanilla:leadlegs",
+    "count": 1
+  }
+}

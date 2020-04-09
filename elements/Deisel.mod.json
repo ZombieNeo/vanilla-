@@ -1,0 +1,17 @@
+{
+  "_fv": 6,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "diesel",
+    "name": "Deisel",
+    "description": "diesel",
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "music": {
+      "value": "CUSTOM:diesel"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

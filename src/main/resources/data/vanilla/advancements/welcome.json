@@ -1,0 +1,29 @@
+{
+  "display": {
+    "background": "minecraft:textures/block/stone.png",
+    "icon": {
+      "item": "minecraft:end_crystal"
+    },
+    "title": {
+      "translate": "advancements.welcome.title"
+    },
+    "description": {
+      "translate": "advancements.welcome.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "welcome": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "to": "vanilla:farlands"
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1000
+  }
+}

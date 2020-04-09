@@ -1,0 +1,26 @@
+{
+  "group": "vanilla",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "vanilla:leadingot"
+    },
+    "2": {
+      "item": "vanilla:leadingot"
+    },
+    "3": {
+      "item": "vanilla:leadingot"
+    },
+    "5": {
+      "item": "vanilla:leadingot"
+    }
+  },
+  "result": {
+    "item": "vanilla:leadboots",
+    "count": 1
+  }
+}
