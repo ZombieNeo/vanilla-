@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "vanilla:blocks/cactuas2",
+    "up": "vanilla:blocks/cactuas2",
+    "north": "vanilla:blocks/currtioncactus",
+    "east": "vanilla:blocks/currtioncactus",
+    "south": "vanilla:blocks/currtioncactus",
+    "west": "vanilla:blocks/currtioncactus",
+    "particle": "vanilla:blocks/cactuas2"
+  }
+}

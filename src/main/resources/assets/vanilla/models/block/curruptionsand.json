@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "vanilla:blocks/curruptionsand",
+    "up": "vanilla:blocks/curruptionsand",
+    "north": "vanilla:blocks/curruptionsand",
+    "east": "vanilla:blocks/curruptionsand",
+    "south": "vanilla:blocks/curruptionsand",
+    "west": "vanilla:blocks/curruptionsand",
+    "particle": "vanilla:blocks/curruptionsand"
+  }
+}
