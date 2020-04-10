@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "vanilla:blocks/buleleaf",
+    "up": "vanilla:blocks/buleleaf",
+    "north": "vanilla:blocks/buleleaf",
+    "east": "vanilla:blocks/buleleaf",
+    "south": "vanilla:blocks/buleleaf",
+    "west": "vanilla:blocks/buleleaf",
+    "particle": "vanilla:blocks/buleleaf"
+  }
+}
