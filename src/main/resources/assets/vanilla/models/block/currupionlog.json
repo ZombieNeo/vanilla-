@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "vanilla:blocks/curruotionlogtop",
+    "up": "vanilla:blocks/curruotionlogtop",
+    "north": "vanilla:blocks/currtionlog",
+    "east": "vanilla:blocks/currtionlog",
+    "south": "vanilla:blocks/currtionlog",
+    "west": "vanilla:blocks/currtionlog",
+    "particle": "vanilla:blocks/curruotionlogtop"
+  }
+}
