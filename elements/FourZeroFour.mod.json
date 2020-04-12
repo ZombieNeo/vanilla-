@@ -1,0 +1,66 @@
+{
+  "_fv": 6,
+  "_type": "biome",
+  "definition": {
+    "name": "Four Zero Four",
+    "groundBlock": {
+      "value": "CUSTOM:Curruptiongrass"
+    },
+    "undergroundBlock": {
+      "value": "CUSTOM:Curruptionstone"
+    },
+    "generateLakes": true,
+    "treeType": 1,
+    "vanillaTreeType": "Default",
+    "minHeight": 23,
+    "spawnVines": false,
+    "treeVines": {
+      "value": "Blocks.VINE"
+    },
+    "treeStem": {
+      "value": "CUSTOM:Currupionlog"
+    },
+    "treeBranch": {
+      "value": "CUSTOM:Curruptionleafs"
+    },
+    "treeFruits": {
+      "value": "Blocks.COCOA"
+    },
+    "customColors": true,
+    "airColor": {
+      "value": -4049526,
+      "falpha": 0.0
+    },
+    "grassColor": {
+      "value": -3732330,
+      "falpha": 0.0
+    },
+    "waterColor": {
+      "value": -10086934,
+      "falpha": 0.0
+    },
+    "treesPerChunk": 3,
+    "grassPerChunk": 4,
+    "flowersPerChunk": 4,
+    "mushroomsPerChunk": 0,
+    "bigMushroomsChunk": 0,
+    "sandPathcesPerChunk": 0,
+    "gravelPatchesPerChunk": 0,
+    "reedsPerChunk": 0,
+    "cactiPerChunk": 0,
+    "deadBushesPerChunk": 0,
+    "rainingPossibility": 0.5,
+    "temperature": 0.5,
+    "baseHeight": 0.1,
+    "heightVariation": 0.2,
+    "spawnBiome": true,
+    "biomeWeight": 10,
+    "biomeType": "WARM",
+    "biomeCategory": "NONE",
+    "parent": {
+      "value": "No parent"
+    },
+    "biomeDictionaryTypes": [],
+    "spawnList": []
+  }
+}
