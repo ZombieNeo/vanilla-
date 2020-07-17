@@ -1,3 +1,3 @@
 # vanilla-
 
-https://forthebadge.com/images/badges/designed-in-ms-paint.svg
+A small mod made by two people <3
